@@ -1,16 +1,17 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Overpass", sans-serif;
   color: #fff;
   background-image: linear-gradient(#ff9500, #ff5e3a);
   background-size: cover;
 }
 
-body {
-}
-
 .btn {
   color: #fff;
   border-color: #fff;
+}
+
+.btn:hover {
+  border-color: rgba(255, 255, 255, 1);
 }
 
 .btn-ghost:hover {
