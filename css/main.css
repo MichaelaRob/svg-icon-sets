@@ -1,5 +1,5 @@
 html {
-  font-family: "Overpass", sans-serif;
+  font-family: Overpass, sans-serif;
   color: #fff;
   background-image: linear-gradient(#ff9500, #ff5e3a);
   background-size: cover;
@@ -25,6 +25,7 @@ html {
   .two {
     padding-top: 60px;
   }
+
   .three {
     padding-top: 60px;
   }
