@@ -21,5 +21,11 @@ body {
 
 @media only screen and (min-width: 60em) {
 
+  .two {
+    padding-top: 60px;
+  }
+  .three {
+    padding-top: 60px;
+  }
 
 }
