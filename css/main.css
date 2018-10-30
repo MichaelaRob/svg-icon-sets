@@ -7,3 +7,14 @@ html {
 
 body {
 }
+
+.btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn-ghost:hover {
+  border-color: #fff;
+  background-color: rgba(255, 255, 255, 1);
+  color: #ff9500;
+}
